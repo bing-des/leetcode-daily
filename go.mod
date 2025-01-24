@@ -1,3 +1,3 @@
 module github.com/bing-des/leetcode-daily
 
-go 1.23.3
+go 1.21.1
